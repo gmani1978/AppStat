@@ -1,2 +1,2 @@
 # AppStat
-AI and ML projects
+Applied Statistics - Python examples
